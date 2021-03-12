@@ -125,7 +125,7 @@ I was just listening to my radio...until I caught a secret message sent from the
 </br>
 Though I can't make sense of it...help?
 ## Approach
-I put the file into sonic visualizer and added spectogrma to get the flag
+I put the file into sonic visualizer and added spectogram to get the flag
 </br>
 </br>
 ![image](https://user-images.githubusercontent.com/65858555/110920200-1190e000-8358-11eb-8422-19be5419d4e0.png)
