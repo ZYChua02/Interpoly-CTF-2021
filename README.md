@@ -1,7 +1,7 @@
 # Interpoly-CTF-2021
 Writeups on the challenges I solved in the Interpoly CTF (Lag and Crash) 2021
 
-# Table of Contemts
+# Table of Contents
 * Misc
   * Tedious? Or is it? 
 * Crypto 
@@ -18,7 +18,7 @@ Writeups on the challenges I solved in the Interpoly CTF (Lag and Crash) 2021
 ## Tedious? Or is it
 ## Challenge Description
 My friend pranked me and hide my secret in one these!
-## Apporach
+## Approach
 </br>
 We were given a zip file named tedious. I unzipped the file and inside a folder name 'QR' there are even more zip files, from 0.zip and 4255.zip
 </br>
