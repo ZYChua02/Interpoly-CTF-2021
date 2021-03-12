@@ -55,6 +55,8 @@ Look at my indestructible keypad phone!
 PS Take note after decryption, the output is NOT in flag format LNC{}. The final flag entered should be in all caps eg LNC{THIS_IS_THE_FLAG}.
 ## Approach
 I recognised as the keypad that was used in nokia phone in the 2000s so used dcode (Multi-Tap Phone) to get the plain text
+</br>
+</br>
 ![image](https://user-images.githubusercontent.com/65858555/110917914-7139bc00-8355-11eb-8b49-0fe8b2d9a53a.png)
 ## The flag
 `LNC{NOKIAISSTILLTHEBEST}`
