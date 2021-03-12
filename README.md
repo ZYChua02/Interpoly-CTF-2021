@@ -44,7 +44,7 @@ I decided to use cyberchef to determine the file type and found out that it was 
 ![image](https://user-images.githubusercontent.com/65858555/110905798-06cd4f80-8346-11eb-96ab-217ee188a89e.png)
 </br>
 </br>
-## The flag
+## The Flag
 `LNC{IS_THlS_TH3_R3AL_0N3?}`
 
 
