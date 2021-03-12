@@ -46,5 +46,23 @@ I decided to use cyberchef to determine the file type and found out that it was 
 </br>
 ## The Flag
 `LNC{IS_THlS_TH3_R3AL_0N3?}`
+# Crypto
+## Nokia
+## Challenge Description
+Look at my indestructible keypad phone!
+</br>
+66 666 55 444 2 444 7777 7777 8 444 555 555 8 44 33 22 33 7777 8 0
+</br>
+PS Take note after decryption, the output is NOT in flag format LNC{}. The final flag entered should be in all caps eg LNC{THIS_IS_THE_FLAG}.
+## Approach
+I knew that this was the numpad that was found in nokia phones so I proceeded to use dcode to do it and get the flag
+</br>
+</br>
+![image](https://user-images.githubusercontent.com/65858555/110910840-d5a44d80-834c-11eb-8b34-c652b7ccafb2.png)
+</br>
+</br>
+## The flag
+`LNC{NOKIAISSTILLTHEBEST}'
+
 
 
