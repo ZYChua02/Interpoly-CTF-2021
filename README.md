@@ -67,4 +67,4 @@ Div0 is one of the co-organisers of the Lag n Crash CTF. I wonder what were they
 ## The flag
 `LNC{Edgis}`
 # Personal Thoughts on the CTF
-Honestly the CTF was more difficult than I thought considering it was only for teritiary students, but I learnt new things in this CTF. This includes the use of Sonic Visualizer to anlayse the spectogram in the wav file and reading other writeups to solve the RSA Problem (weak n insecure), which I had tried for a few hours. Riding Solo in this CTF definitely tested my skills to the fullest and there is a lot of room of improvement regarding my performance, but this CTF was a good starting point.
+Honestly the CTF was more difficult than I thought considering it was only for teritiary students, but I learnt new things in this CTF. This includes the use of Sonic Visualizer to anlayse the spectogram in the wav file and reading other writeups to solve the RSA Problem (weak n insecure), which I had tried for a few hours. Riding Solo in this CTF definitely tested my skills to the fullest and there is a lot of room of improvement regarding my performance, but this CTF is a good starting point.
