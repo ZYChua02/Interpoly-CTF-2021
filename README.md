@@ -38,9 +38,7 @@ I tried to unzip 1337.zip but it was a not a zip file
 I decided to put into the cyberchef to determine the file type, but saw that it is a QR code so I used the parse QR code function in cyberchef to retreive the flag
 </br>
 </br>
-![image](https://user-images.githubusercontent.com/65858555/110917465-e8228500-8354-11eb-8e90-dadf10ae861e.png)
-
-
+![image](https://user-images.githubusercontent.com/65858555/110925529-46079a80-835e-11eb-9228-a3dddbbb3819.png)
 ## The flag
 `LNC{IS_THlS_TH3_R3AL_0N3?}`
 # Crypto
