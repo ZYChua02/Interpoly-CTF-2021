@@ -1,17 +1,17 @@
 # Interpoly-CTF-2021
 Writeups on the challenges I solved in the Interpoly CTF (Lag and Crash) 2021
 # Table of Contents
-* Misc
-  * [Tedious? Or is it?] ()
-* Crypto 
-  * Nokia 
-  * Oink Oink 
-  * weak n insecure
-* Forensics
-  * Do you believe in Aliens?
-* OSINT
-  * div0
-* Personal thoughts on the CTF
+* [Misc](https://github.com/ZYChua02/Interpoly-CTF-2021#misc)
+  * [Tedious? Or is it?](https://github.com/ZYChua02/Interpoly-CTF-2021#tedious-or-is-it)
+* [Crypto](https://github.com/ZYChua02/Interpoly-CTF-2021#crypto)
+  * [Nokia](https://github.com/ZYChua02/Interpoly-CTF-2021#nokia)
+  * [Oink Oink](https://github.com/ZYChua02/Interpoly-CTF-2021#oink-oink)
+  * [weak n insecure](https://github.com/ZYChua02/Interpoly-CTF-2021#weak-n-insecure)
+* [Forensics](https://github.com/ZYChua02/Interpoly-CTF-2021#forensics)
+  * [Do you believe in Aliens?](https://github.com/ZYChua02/Interpoly-CTF-2021#do-you-believe-in-aliens)
+* [OSINT](https://github.com/ZYChua02/Interpoly-CTF-2021#osint)
+  * [div0](https://github.com/ZYChua02/Interpoly-CTF-2021#div0)
+* [Personal thoughts on the CTF](https://github.com/ZYChua02/Interpoly-CTF-2021##personal-thoughts-on-the-ctf)
 # Misc
 ## Tedious? Or is it?
 ## Challenge Description
@@ -139,5 +139,5 @@ I just went to their website and scrolled down and found what they were previous
 ![image](https://user-images.githubusercontent.com/65858555/110920852-d3e08700-8358-11eb-9b69-ed755e232cac.png)
 ## The flag
 `LNC{Edgis}`
-# Personal Thoughts on the CTF
+# Personal thoughts on the CTF
 Honestly the CTF was more difficult than I thought considering it was only for teritiary students, but I learnt new things in this CTF. This includes the use of Sonic Visualizer to anlayse the spectogram in the wav file and reading other writeups to solve the RSA Problem (weak n insecure), which I had tried for a few hours. Riding Solo in this CTF definitely tested my skills to the fullest and there is a lot of room of improvement regarding my performance, but this CTF is a good starting point. Getting 43rd place out of 68 teams that were on the scoreboard was better than I expected.
