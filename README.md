@@ -45,6 +45,6 @@ I decided to use cyberchef to determine the file type and found out that it was 
 </br>
 </br>
 ## The flag
-'LNC{IS_THlS_TH3_R3AL_0N3?}'
+`LNC{IS_THlS_TH3_R3AL_0N3?}`
 
 
