@@ -29,7 +29,7 @@ We were given a zip file named tedious. I unzipped the file and inside a folder 
 I remember in a write up I read that when there are many files, the first thing is to look for anomalies (Date modified/Size), in this case I decided to sort the zip files by date modified and sure enough there is a anomally in 1337.zip
 </br>
 </br>
-![image](https://user-images.githubusercontent.com/65858555/110905362-52cbc480-8345-11eb-878f-84597f63356a.png)
+![image](https://user-images.githubusercontent.com/65858555/109409967-d85c8580-79d1-11eb-92db-b954e2ba7462.png)
 </br>
 </br>
 I tried unzipping the file but it was not a zip file
