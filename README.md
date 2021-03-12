@@ -11,7 +11,7 @@ Writeups on the challenges I solved in the Interpoly CTF (Lag and Crash) 2021
   * [Do you believe in Aliens?](https://github.com/ZYChua02/Interpoly-CTF-2021#do-you-believe-in-aliens)
 * [OSINT](https://github.com/ZYChua02/Interpoly-CTF-2021#osint)
   * [div0](https://github.com/ZYChua02/Interpoly-CTF-2021#div0)
-* [Personal thoughts on the CTF](https://github.com/ZYChua02/Interpoly-CTF-2021##personal-thoughts-on-the-ctf)
+* [Personal thoughts on the CTF](https://github.com/ZYChua02/Interpoly-CTF-2021#personal-thoughts-on-the-ctf)
 # Misc
 ## Tedious? Or is it?
 ## Challenge Description
