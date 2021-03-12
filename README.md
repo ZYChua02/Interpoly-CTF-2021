@@ -130,6 +130,7 @@ I put the file into sonic visualizer and added spectogrma to get the flag
 ## The flag
 `LNC{tr@sH_2iNt_It}`
 # OSINT
+## div0
 ## Challenge Description
 Div0 is one of the co-organisers of the Lag n Crash CTF. I wonder what were they previously called.
 ## Approach
